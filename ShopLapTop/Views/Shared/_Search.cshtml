@@ -1,0 +1,18 @@
+﻿@using Microsoft.AspNetCore.Mvc.Rendering
+
+@{
+    Layout = null; // Không sử dụng layout cho partial view
+}
+
+<div class="d-flex align-items-center justify-content-between mb-4">
+    <form action="@Url.Action("Index", "Shop")" method="get">
+        <div class="input-group">
+            <input type="text" class="form-control" name="search" placeholder="Tìm kiếm...">
+            <div class="input-group-append">
+                <button class="btn btn-primary" type="submit">
+                    <i class="fa fa-search"></i>
+                </button>
+            </div>
+        </div>
+    </form>
+</div>

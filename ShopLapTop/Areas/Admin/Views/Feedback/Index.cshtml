@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ShopLapTop.Model.Entities.Feedback>
+
+@{
+    ViewData["Title"] = "Danh sách phản hồi";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Danh sách phản hồi</h5>
+        <div class="mb-3">
+            <a asp-action="Create" class="btn btn-primary">Tạo mới</a>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Tên</th>
+                    <th>Email</th>
+                    <th>Chủ đề</th>
+                    <th>Nội dung</th>
+                    <th>Ngày tạo</th>
+                    <th>Trạng thái</th>
+                    <th>Người dùng</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Subject)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Message)</td>
+                        <td>@Html.DisplayFor(modelItem => item.CreatedAt)</td>
+                        <td>
+                            @if (item.Status == 1)
+                            {
+                                <span>Hiện</span>
+                            }
+                            else
+                            {
+                                <span>Ẩn</span>
+                            }
+                        </td>
+                        <td>@Html.DisplayFor(modelItem => item.User.Username)</td>
+                        <td>
+                            <div style="display: inline-block;">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Sửa</a>
+                            </div>
+                            <div style="display: inline-block;">
+                                <form asp-action="Delete" method="post" onsubmit="return confirm('Bạn có chắc chắn muốn xóa không?')">
+                                    <input type="hidden" name="id" value="@item.Id" />
+                                    <button type="submit" class="btn btn-danger">Xóa</button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

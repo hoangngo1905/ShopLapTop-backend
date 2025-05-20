@@ -1,0 +1,40 @@
+﻿@model IEnumerable<ShopLapTop.Model.Entities.WishList>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Danh sách yêu thích sản phẩm</h5>
+        <div class="mb-3">
+            <a asp-action="Create" class="btn btn-primary">Thêm mới</a>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Sản phẩm</th>
+                    <th>Người dùng</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Product.Name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.User.Username)</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Sửa</a>
+                            <form asp-action="Delete" method="post" onsubmit="return confirm('Bạn có chắc chắn muốn xóa không?')" style="display:inline-block">
+                                <input type="hidden" name="id" value="@item.Id" />
+                                <button type="submit" class="btn btn-danger">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

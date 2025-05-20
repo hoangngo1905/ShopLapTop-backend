@@ -1,0 +1,66 @@
+﻿@model List<ShopLapTop.Model.Entities.Product>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Danh sách sản phẩm</h5>
+        <div class="mb-3">
+            <a href="@Url.Action("Create", "Product", new { area = "Admin" })" class="btn btn-primary">Tạo mới</a>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Mã sản phẩm</th>
+                    <th>Tên sản phẩm</th>
+                    <th>Giá</th>
+                    <th>Số lượng</th>
+                    <th>Giảm giá</th>
+                    <th>Ảnh đại diện</th>
+                    <th>Trạng thái</th>
+                    <th>Nhà sản xuất</th>
+                    <th>Loại sản phẩm</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>@item.Price.ToString("N0")</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Discount%</td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(item.Thumbnail))
+                            {
+                                <img src="~/assets/images/products/@item.Thumbnail" alt="Thumbnail" style="width: 50px; height: 50px;" />
+                            }
+                            else
+                            {
+                                <span>Không có ảnh</span>
+                            }
+                        </td>
+                        <td>@(item.Status == 1 ? "Còn hàng" : "Hết hàng")</td>
+                        <td>@item.Manufacturer?.Name</td>
+                        <td>@item.Category?.Name</td>
+                        <td>
+                            <div style="display: inline-block;">
+                                <a href="@Url.Action("Edit", "Product", new { area = "Admin", id = item.Id })" class="btn btn-primary">Sửa</a>
+                            </div>
+                            <div style="display: inline-block;">
+                                <form asp-action="Delete" method="post" onsubmit="return confirm('Bạn có chắc chắn muốn xóa không?')">
+                                    <input type="hidden" name="id" value="@item.Id" />
+                                    <button type="submit" class="btn btn-danger">Xóa</button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,26 @@
+﻿@* Views/Cart/OrderSuccess.cshtml *@
+@{
+    ViewData["Title"] = "Order Success";
+}
+
+<div style="text-align: center;margin: 100px">
+    <h2>Đặt hàng thành công!</h2>
+    <p>Cảm ơn bạn đã đặt hàng. Chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất.</p>
+<p>Trở về trang chủ sau: <span id="countdown">5</span> giây</p>
+</div>
+
+<script type="text/javascript">
+    var seconds = 5;
+    var countdownElement = document.getElementById('countdown');
+
+    function updateCountdown() {
+        if (seconds > 0) {
+            countdownElement.textContent = seconds;
+            seconds--;
+        } else {
+            window.location.href = '/';
+        }
+    }
+
+    setInterval(updateCountdown, 1000);
+</script>

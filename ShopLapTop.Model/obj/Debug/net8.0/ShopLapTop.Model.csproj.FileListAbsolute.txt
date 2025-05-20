@@ -1,0 +1,56 @@
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.deps.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.runtimeconfig.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.pdb
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.csproj.AssemblyReference.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.AssemblyInfoInputs.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.AssemblyInfo.cs
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\refint\ShopLapTop.Model.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.pdb
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.genruntimeconfig.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ref\ShopLapTop.Model.dll
+D:\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.deps.json
+D:\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.runtimeconfig.json
+D:\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.dll
+D:\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.pdb
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.csproj.AssemblyReference.cache
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.AssemblyInfoInputs.cache
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.AssemblyInfo.cs
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.csproj.CoreCompileInputs.cache
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.dll
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\refint\ShopLapTop.Model.dll
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.pdb
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.genruntimeconfig.cache
+D:\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ref\ShopLapTop.Model.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.deps.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.runtimeconfig.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.pdb
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.csproj.AssemblyReference.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.AssemblyInfoInputs.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.AssemblyInfo.cs
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.csproj.CoreCompileInputs.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\refint\ShopLapTop.Model.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.pdb
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.genruntimeconfig.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ref\ShopLapTop.Model.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.deps.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.runtimeconfig.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\bin\Debug\net8.0\ShopLapTop.Model.pdb
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.csproj.AssemblyReference.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.AssemblyInfoInputs.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.AssemblyInfo.cs
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.csproj.CoreCompileInputs.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\refint\ShopLapTop.Model.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.pdb
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ShopLapTop.Model.genruntimeconfig.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.Model\obj\Debug\net8.0\ref\ShopLapTop.Model.dll

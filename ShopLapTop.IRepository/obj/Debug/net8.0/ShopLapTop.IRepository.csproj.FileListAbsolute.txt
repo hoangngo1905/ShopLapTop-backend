@@ -1,0 +1,44 @@
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.deps.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.pdb
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.AssemblyInfoInputs.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.AssemblyInfo.cs
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\refint\ShopLapTop.IRepository.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.pdb
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ref\ShopLapTop.IRepository.dll
+D:\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.deps.json
+D:\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.dll
+D:\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.pdb
+D:\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.AssemblyInfoInputs.cache
+D:\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.AssemblyInfo.cs
+D:\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.csproj.CoreCompileInputs.cache
+D:\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.dll
+D:\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\refint\ShopLapTop.IRepository.dll
+D:\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.pdb
+D:\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ref\ShopLapTop.IRepository.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.deps.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.pdb
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.AssemblyInfoInputs.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.AssemblyInfo.cs
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.csproj.CoreCompileInputs.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\refint\ShopLapTop.IRepository.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.pdb
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ref\ShopLapTop.IRepository.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.deps.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\bin\Debug\net8.0\ShopLapTop.IRepository.pdb
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.AssemblyInfoInputs.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.AssemblyInfo.cs
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.csproj.CoreCompileInputs.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\refint\ShopLapTop.IRepository.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ShopLapTop.IRepository.pdb
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop.IRepository\obj\Debug\net8.0\ref\ShopLapTop.IRepository.dll

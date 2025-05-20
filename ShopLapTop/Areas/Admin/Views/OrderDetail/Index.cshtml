@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ShopLapTop.Model.Entities.OrderDetail>
+
+@{
+    ViewData["Title"] = "Danh sách chi tiết đơn hàng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Danh sách chi tiết đơn hàng</h5>
+        <div class="mb-3">
+            <a asp-action="Create" class="btn btn-primary">Tạo mới</a>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Giá</th>
+                    <th>Số lượng</th>
+                    <th>Đơn hàng</th>
+                    <th>Sản phẩm</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@String.Format("{0:#,##0}đ", item.Price)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Order.Id)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Product.Name)</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Sửa</a>
+                            <form asp-action="Delete" method="post" onsubmit="return confirm('Bạn có chắc chắn muốn xóa không?')" style="display:inline-block">
+                                <input type="hidden" name="id" value="@item.Id" />
+                                <button type="submit" class="btn btn-danger">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

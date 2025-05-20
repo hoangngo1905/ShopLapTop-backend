@@ -1,0 +1,108 @@
+﻿@model IEnumerable<ShopLapTop.Models.CartItem>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Header Start -->
+<div class="container-fluid bg-secondary mb-5">
+    <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 300px">
+        <h1 class="font-weight-semi-bold text-uppercase mb-3">Cart</h1>
+        <div class="d-inline-flex">
+            <p class="m-0"><a asp-controller="Home">Home</a></p>
+            <p class="m-0 px-2">-></p>
+            <p class="m-0">Cart</p>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+<!-- Cart Start -->
+<div class="container-fluid pt-5">
+    <div class="row px-xl-5">
+        <!-- Giỏ Hàng -->
+        <div class="col-lg-8 table-responsive mb-5">
+            <table class="table table-bordered text-center mb-0">
+                <thead class="bg-secondary text-dark">
+                    <tr>
+                        <th>Sản phẩm</th>
+                        <th>Giá</th>
+                        <th>Số lượng</th>
+                        <th>Tổng</th>
+                        <th>Xóa</th>
+                    </tr>
+                </thead>
+                <tbody class="align-middle">
+                    <!-- ... -->
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="align-middle">
+                                <img src="~/assets/images/products/@item.Hinh" alt="" style="width: 50px;">
+                                <a href="@Url.Action("Detail", "Shop", new { id = item.MaHh })" class="text-decoration-none">
+                                    @item.TenHH
+                                </a>
+                            </td>
+                            <td class="align-middle">@item.DonGia.ToString("N0")đ</td>
+                            <td class="align-middle">
+                                <div class="input-group quantity mx-auto" style="width: 100px;">
+                                    <div class="input-group-btn">
+                                        <a href="@Url.Action("DecreaseQuantity", "Cart", new { id = item.MaHh })" class="btn btn-sm btn-primary btn-minus">
+                                            <i class="fa fa-minus"></i>
+                                        </a>
+                                    </div>
+                                    <input type="text" class="form-control form-control-sm bg-secondary text-center" value="@item.SoLuong">
+                                    <div class="input-group-btn">
+                                        <a href="@Url.Action("AddToCart", "Cart", new { id = item.MaHh })" class="btn btn-sm btn-primary btn-plus">
+                                            <i class="fa fa-plus"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="align-middle">@((item.DonGia * item.SoLuong).ToString("N0"))đ</td>
+                            <td class="align-middle">
+                                <a href="@Url.Action("RemoveFromCart", "Cart", new { id = item.MaHh })" class="btn btn-sm btn-primary">
+                                    <i class="fa fa-times"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                    <!-- ... -->
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Thanh Toán -->
+        <div class="col-lg-4">
+            <div class="card border-secondary mb-5">
+                <div class="card-header bg-secondary border-0">
+                    <h4 class="font-weight-semi-bold m-0">Thanh Toán</h4>
+                </div>
+                <div class="card-body">
+                    @{
+                        double totalPrice = 0;
+                        foreach (var item in Model)
+                        {
+                            totalPrice += item.DonGia * item.SoLuong;
+                        }
+                    }
+                    <div class="d-flex justify-content-between mb-3 pt-1">
+                        <h6 class="font-weight-medium">Tổng phụ</h6>
+                        <h6 class="font-weight-medium">@totalPrice.ToString("N0")đ</h6>
+                    </div>
+                    <div class="d-flex justify-content-between">
+                        <h6 class="font-weight-medium">Phí vận chuyển</h6>
+                        <h6 class="font-weight-medium">30.000đ</h6>
+                    </div>
+                </div>
+                <div class="card-footer border-secondary bg-transparent">
+                    <div class="d-flex justify-content-between mt-2">
+                        <h5 class="font-weight-bold">Tổng</h5>
+                        <h5 class="font-weight-bold">@string.Format("{0:N0}đ", (totalPrice + 30000))</h5>
+                    </div>
+                    <a asp-action="CheckOut" asp-controller="Cart" class="btn btn-block btn-primary my-3 py-3">THANH TOÁN NGAY!</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Cart End -->

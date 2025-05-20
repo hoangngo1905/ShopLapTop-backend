@@ -1,0 +1,24 @@
+﻿@model ShopLapTop.Model.Entities.Manufacturer
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Thêm mới hãng laptop</h5>
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Tên hãng</label>
+                <input asp-for="Name" class="form-control" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <!-- Thêm các trường dữ liệu khác nếu cần thiết -->
+            <button type="submit" class="btn btn-primary" style="margin-top: 12px">Thêm</button>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>
+</div>

@@ -1,0 +1,1032 @@
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\appsettings.Development.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\appsettings.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.staticwebassets.runtime.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.exe
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.deps.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.runtimeconfig.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.pdb
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.AssemblyInfoInputs.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.AssemblyInfo.cs
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.MvcApplicationPartsAssemblyInfo.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.RazorAssemblyInfo.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.RazorAssemblyInfo.cs
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.ShopLapTop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.build.ShopLapTop.props
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShopLapTop.props
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShopLapTop.props
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\bundle\ShopLapTop.styles.css
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\projectbundle\ShopLapTop.bundle.scp.css
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\refint\ShopLapTop.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.pdb
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.genruntimeconfig.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ref\ShopLapTop.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Azure.Core.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Azure.Identity.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Humanizer.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Common.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Model.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Model.pdb
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.AssemblyReference.cache
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.Up2Date
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.IRepository.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Repository.dll
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Repository.pdb
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.IRepository.pdb
+D:\Dai Hoc\LAP TRINH BACK END\BAI TAP\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\appsettings.Development.json
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\appsettings.json
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.staticwebassets.runtime.json
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.exe
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.deps.json
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.runtimeconfig.json
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.pdb
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Azure.Core.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Azure.Identity.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Humanizer.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Build.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Common.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.CodeDom.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.IRepository.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Model.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Repository.dll
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Model.pdb
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Repository.pdb
+D:\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.IRepository.pdb
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.AssemblyReference.cache
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.AssemblyInfoInputs.cache
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.AssemblyInfo.cs
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.CoreCompileInputs.cache
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.MvcApplicationPartsAssemblyInfo.cache
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.RazorAssemblyInfo.cache
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.RazorAssemblyInfo.cs
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.build.json
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.development.json
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.ShopLapTop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.build.ShopLapTop.props
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShopLapTop.props
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShopLapTop.props
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\bundle\ShopLapTop.styles.css
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\projectbundle\ShopLapTop.bundle.scp.css
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.CopyComplete
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.dll
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\refint\ShopLapTop.dll
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.pdb
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.genruntimeconfig.cache
+D:\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ref\ShopLapTop.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\appsettings.Development.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\appsettings.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.staticwebassets.runtime.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.exe
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.deps.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.runtimeconfig.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.pdb
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Azure.Core.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Azure.Identity.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Humanizer.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Build.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Common.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.CodeDom.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Memory.Data.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.IRepository.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Model.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Repository.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Model.pdb
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Repository.pdb
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.IRepository.pdb
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.AssemblyReference.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.GeneratedMSBuildEditorConfig.editorconfig
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.AssemblyInfoInputs.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.AssemblyInfo.cs
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.CoreCompileInputs.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.MvcApplicationPartsAssemblyInfo.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.RazorAssemblyInfo.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.RazorAssemblyInfo.cs
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.build.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.development.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.ShopLapTop.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.build.ShopLapTop.props
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShopLapTop.props
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShopLapTop.props
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.pack.json
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\bundle\ShopLapTop.styles.css
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\projectbundle\ShopLapTop.bundle.scp.css
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.CopyComplete
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\refint\ShopLapTop.dll
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.pdb
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.genruntimeconfig.cache
+E:\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ref\ShopLapTop.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\appsettings.Development.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\appsettings.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.staticwebassets.runtime.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.exe
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.deps.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.runtimeconfig.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.pdb
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Azure.Core.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Azure.Identity.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Humanizer.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Build.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Common.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.CodeDom.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Memory.Data.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.IRepository.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Model.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Repository.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Model.pdb
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.Repository.pdb
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\bin\Debug\net8.0\ShopLapTop.IRepository.pdb
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.AssemblyReference.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.AssemblyInfoInputs.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.AssemblyInfo.cs
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.CoreCompileInputs.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.MvcApplicationPartsAssemblyInfo.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.RazorAssemblyInfo.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.RazorAssemblyInfo.cs
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.build.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.development.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.ShopLapTop.Microsoft.AspNetCore.StaticWebAssets.props
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.build.ShopLapTop.props
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShopLapTop.props
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShopLapTop.props
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\staticwebassets.pack.json
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\bundle\ShopLapTop.styles.css
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\scopedcss\projectbundle\ShopLapTop.bundle.scp.css
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.csproj.CopyComplete
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\refint\ShopLapTop.dll
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.pdb
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ShopLapTop.genruntimeconfig.cache
+E:\HocTap\LapTrinh-Backend\ShopLapTop\ShopLapTop\obj\Debug\net8.0\ref\ShopLapTop.dll

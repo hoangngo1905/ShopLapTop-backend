@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ShopLapTop.Model.Entities.User>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Danh sách người dùng</h5>
+        <div class="mb-3">
+            <a asp-action="Create" class="btn btn-primary">Tạo mới</a>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Họ và tên</th>
+                    <th>Tên đăng nhập</th>
+                    @* <th>Mật khẩu</th> *@
+                    <th>Email</th>
+                    <th>Số điện thoại</th>
+                    <th>Địa chỉ</th>
+                    <th>Trạng thái</th>
+                    <th>Vai trò</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Fullname)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Username)</td>
+                        @* <td>@Html.DisplayFor(modelItem => item.Password)</td> *@
+                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Phonenumber)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Address)</td>
+                        <td>
+                            @if (item.Status == 1)
+                            {
+                                <span>Hoạt động</span>
+                            }
+                            else
+                            {
+                                <span>Không hoạt động</span>
+                            }
+                        </td>
+                        <td>@Html.DisplayFor(modelItem => item.Role.Name)</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Sửa</a>
+                            <form asp-action="Delete" method="post" onsubmit="return confirm('Bạn có chắc chắn muốn xóa không?')" style="display:inline-block">
+                                <input type="hidden" name="id" value="@item.Id" />
+                                <button type="submit" class="btn btn-danger">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

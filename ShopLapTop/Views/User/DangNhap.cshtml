@@ -1,0 +1,35 @@
+﻿@model ShopLapTop.ViewModels.LoginVM
+
+@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<div class="container-fluid pt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-4">
+            <div class="border border-primary p-4 d-flex flex-column align-items-center">
+                <h4 class="font-weight-semi-bold mb-4">Đăng Nhập Tài Khoản</h4>
+                <form asp-action="DangNhap" asp-route-returnurl="@ViewBag.ReturnUrl">
+                    <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                    <div class="row">
+                        <div class="col-md-12 form-group">
+                            <label asp-for="Username"></label>
+                            <input asp-for="Username" class="form-control" type="text">
+                            <span asp-validation-for="Username" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <label asp-for="Password"></label>
+                            <input asp-for="Password" class="form-control" type="password">
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-12 form-group text-center">
+                        <button type="submit" class="btn btn-lg btn-primary">ĐĂNG NHẬP</button>
+                    </div>
+                    <a style="float: right" asp-controller="User" asp-action="QuenMatKhau"> Bạn quên mật khẩu ?</a>
+                    <p style="float: left">Bạn chưa có tài khoản? <a asp-controller="User" asp-action="DangKy">Đăng Ký</a></p>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

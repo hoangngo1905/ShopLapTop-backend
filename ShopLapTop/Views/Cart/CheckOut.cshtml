@@ -1,0 +1,116 @@
+﻿@using ShopLapTop.ViewModels
+@model IEnumerable<ShopLapTop.Models.CartItem>
+@* @model IEnumerable<ShopLapTop.ViewModels.CheckOutVM> *@
+@{
+    ViewData["Title"] = "CheckOut";
+    double phiVanChuyen = 30000; // Phí vận chuyển cố định
+    double tongTien = Model.Sum(p => p.ThanhTien) + phiVanChuyen; // Tính tổng tiền bao gồm phí vận chuyển
+}
+
+<!-- Page Header Start -->
+<div class="container-fluid bg-secondary mb-5">
+    <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 300px">
+        <h1 class="font-weight-semi-bold text-uppercase mb-3">Check Out</h1>
+        <div class="d-inline-flex">
+            <p class="m-0"><a asp-controller="Home">Home</a></p>
+            <p class="m-0 px-2">-</p>
+            <p class="m-0">Check Out</p>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+<!-- Checkout Start -->
+<div class="container-fluid pt-5">
+    <div class="row px-xl-5">
+        <form class="col-lg-7" asp-action="CheckOut" asp-controller="Cart" name="checkoutForm" onsubmit="return validateForm()">
+            <div class="mb-4">
+                <h4 class="font-weight-semi-bold mb-4">Địa chỉ thanh toán</h4>
+                <div class="row">
+                    <div class="col-md-12 form-group">
+                        <label>Tên của bạn</label>
+                        <input class="form-control" type="text" name="HoTen" placeholder="Tân" value="Nguyen Van Tan" >
+                    </div>
+                    <div class="col-md-12 form-group">
+                        <label>Số điện thoại</label>
+                        <input class="form-control" type="text" name="DienThoai" placeholder="+123 456 789" value="0393481456">
+                    </div>
+                    <div class="col-md-12 form-group">
+                        <label>Email</label>
+                        <input class="form-control" type="text" name="Email" placeholder="vidu@gmail.com" value="nguyenvantanytb@gmail.com">
+                    </div>
+                    <div class="col-md-12 form-group">
+                        <label>Địa chỉ </label>
+                        <input class="form-control" type="text" name="DiaChi" placeholder="123 Ngô Quyền" value="Hai Phong">
+                    </div>
+                    <div class="col-md-12 form-group">
+                        <label>Ghi Chú </label>
+                        <input class="form-control" type="text" name="GhiChu" placeholder="Note" value="Shop ban qua la re! Yeu thich">
+                    </div>
+                </div>
+            </div>
+            <div class="card border-secondary mb-5">
+                <div class="card-footer border-secondary bg-transparent">
+                    <button type="submit" class="btn btn-lg btn-block btn-primary font-weight-bold my-3 py-3">Đặt Hàng</button>
+                </div>
+            </div>
+        </form>
+        <div class="col-lg-5">
+            <div class="card border-secondary mb-5">
+                <div class="card-header bg-secondary border-0">
+                    <h4 class="font-weight-semi-bold m-0">Tổng số đơn hàng</h4>
+                </div>
+                <div class="card-body">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th class="font-weight-medium" style="font-weight: bold; font-size: 1em;">Sản phẩm</th>
+                                <th class="font-weight-medium" style="font-weight: bold; font-size: 1em;">Số lượng</th>
+                                <th class="font-weight-medium" style="font-weight: bold; font-size: 1em;">Giá</th>
+                                <th class="font-weight-medium" style="font-weight: bold; font-size: 1em;">Tổng</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.TenHH</td>
+                                    <td>@item.SoLuong</td>
+                                    <td>@item.DonGia.ToString("N0")đ</td>
+                                    <td>@item.ThanhTien.ToString("N0")đ</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <hr class="mt-0">
+                    <div class="d-flex justify-content-between">
+                        <h6 class="font-weight-medium">Phí vận chuyển</h6>
+                        <h6 class="font-weight-medium">@phiVanChuyen.ToString("N0")đ</h6>
+                    </div>
+                </div>
+
+                <div class="card-footer border-secondary bg-transparent">
+                    <div class="d-flex justify-content-between mt-2">
+                        <h5 class="font-weight-bold">Tổng</h5>
+                        <h5 class="font-weight-bold">@tongTien.ToString("N0")đ</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Checkout End -->
+
+<!-- Thêm mã JavaScript -->
+<script>
+    function validateForm() {
+        var hoTen = document.forms["checkoutForm"]["HoTen"].value;
+        var dienThoai = document.forms["checkoutForm"]["DienThoai"].value;
+        var email = document.forms["checkoutForm"]["Email"].value;
+        var diaChi = document.forms["checkoutForm"]["DiaChi"].value;
+
+        if (hoTen == "" || dienThoai == "" || email == "" || diaChi == "") {
+            alert("Vui lòng điền đầy đủ thông tin vào các ô");
+            return false;
+        }
+    }
+</script>

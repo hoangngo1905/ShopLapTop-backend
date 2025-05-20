@@ -1,0 +1,55 @@
+﻿@model ShopLapTop.ViewModels.RegisterVM
+@{
+    ViewData["Title"] = "Đăng Ký";
+}
+
+<div class="container-fluid pt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-4">
+            <div class="border border-primary p-4 d-flex flex-column align-items-center">
+                <h4 class="font-weight-semi-bold mb-4">Đăng Ký Tài Khoản</h4>
+                <form asp-action="DangKy">
+                    <div class="row">
+                        <div class="col-md-12 form-group">
+                            <label asp-for="@Model.Fullname"></label>
+                            <input asp-for="@Model.Fullname" class="form-control" type="text" placeholder="Vd: Nguyễn Văn Tân">
+                            <span asp-validation-for="@Model.Fullname" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <label asp-for="@Model.Username"></label>
+                            <input asp-for="@Model.Username" class="form-control" type="text" placeholder="TanHacker">
+                            <span asp-validation-for="@Model.Username" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <label asp-for="@Model.Password"></label>
+                            <input asp-for="@Model.Password" class="form-control" type="text" placeholder="Nvhs^*w852!ckagsjc">
+                            <span asp-validation-for="@Model.Password" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <label asp-for="@Model.Email"></label>
+                            <input asp-for="@Model.Email" class="form-control" type="text" placeholder="example@email.com">
+                            <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <label asp-for="@Model.Phonenumber"></label>
+                            <input asp-for="@Model.Phonenumber" class="form-control" type="text" placeholder="0393481***">
+                            <span asp-validation-for="@Model.Phonenumber" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <label asp-for="@Model.Address"></label>
+                            <input asp-for="@Model.Address" class="form-control" type="text" placeholder="Hải Phòng">
+                            <span asp-validation-for="@Model.Address" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-12 form-group text-center">
+                        <button type="submit" class="btn btn-lg btn-primary">ĐĂNG KÝ</button>
+                    </div>
+                    <p style="float: left">Bạn đã có tài khoản? <a asp-controller="User" asp-action="DangNhap">Đăng Nhập</a></p>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,132 @@
+﻿@model List<ShopLapTop.Model.Entities.Product>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Header Start -->
+<div class="container-fluid bg-secondary mb-5">
+    <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 300px">
+        <h1 class="font-weight-semi-bold text-uppercase mb-3">Shop Product</h1>
+        <div class="d-inline-flex">
+            <p class="m-0"><a asp-controller="Home">Home</a></p>
+            <p class="m-0 px-2">-></p>
+            <p class="m-0">Shop</p>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+
+<!-- Shop Start -->
+<div class="container-fluid pt-5">
+    <div class="row px-xl-5">
+        <!-- Shop Sidebar Start -->
+        <div class="col-lg-3 col-md-12">
+            <!-- Category Start -->
+            <div class="mb-5">
+                @await Component.InvokeAsync("MenuLoai")
+                @await Component.InvokeAsync("MenuNhaSanXuat")
+            </div>
+            <!-- Category End -->
+        </div>
+        <!-- Shop Sidebar End -->
+        <!-- Shop Product Start -->
+        <div class="col-lg-9 col-md-12">
+            <div class="row pb-3">
+                <div class="col-12 pb-1">
+                    @await Html.PartialAsync("_Search")
+                </div>
+                <!-- Product Cards -->
+                @foreach (var product in Model)
+                {
+                    <div class="col-lg-4 col-md-6 col-sm-12 pb-1">
+                        <div class="card product-item border-0 mb-4">
+                            <div class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
+                                <a href="@Url.Action("Detail", "Shop", new { id = product.Id })"><img class="img-fluid w-100" src="~/assets/images/products/@product.Thumbnail" alt=""></a>
+                            </div>
+                            <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
+                                <a href="@Url.Action("Detail", "Shop", new { id = product.Id })"><h6 class="text-truncate mb-3">@product.Name</h6></a>
+                                <div class="d-flex justify-content-center">
+                                    <h6>@product.Price.ToString("N0")đ</h6>
+                                </div>
+                            </div>
+                            <div class="card-footer d-flex justify-content-between bg-light border">
+                                <a href="@Url.Action("Detail", "Shop", new { id = product.Id })" class="btn btn-sm text-dark p-0"><i class="fas fa-eye text-primary mr-1"></i>View Detail</a>
+                                <a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@product.Id" class="btn btn-sm text-dark p-0"><i class="fas fa-shopping-cart text-primary mr-1"></i>Add To Cart</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+                <!-- Pagination -->
+                <div class="col-12 pb-1">
+                    <nav aria-label="Page navigation">
+                        <ul class="pagination justify-content-center mb-3">
+                            @if (ViewBag.CurrentPage != 1)
+                            {
+                                <li class="page-item">
+                                    <a class="page-link" href="?page=1" aria-label="First">
+                                        <span aria-hidden="true">Trang đầu</span>
+                                        <span class="sr-only">First</span>
+                                    </a>
+                                </li>
+                                <li class="page-item">
+                                    <a class="page-link" href="?page=@(ViewBag.CurrentPage - 1)" aria-label="Previous">
+                                        <span aria-hidden="true">&lsaquo;</span>
+                                        <span class="sr-only">Previous</span>
+                                    </a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="page-item disabled">
+                                    <span class="page-link">&laquo;</span>
+                                </li>
+                                <li class="page-item disabled">
+                                    <span class="page-link">&lsaquo;</span>
+                                </li>
+                            }
+
+                            @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                            {
+                                <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                                    <a class="page-link" href="?page=@i">@i</a>
+                                </li>
+                            }
+
+                            @if (ViewBag.CurrentPage != ViewBag.TotalPages)
+                            {
+                                <li class="page-item">
+                                    <a class="page-link" href="?page=@(ViewBag.CurrentPage + 1)" aria-label="Next">
+                                        <span aria-hidden="true">&rsaquo;</span>
+                                        <span class="sr-only">Next</span>
+                                    </a>
+                                </li>
+                                <li class="page-item">
+                                    <a class="page-link" href="?page=@ViewBag.TotalPages" aria-label="Last">
+                                        <span aria-hidden="true">Trang cuối</span>
+                                        <span class="sr-only">Last</span>
+                                    </a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="page-item disabled">
+                                    <span class="page-link">&rsaquo;</span>
+                                </li>
+                                <li class="page-item disabled">
+                                    <span class="page-link">&raquo;</span>
+                                </li>
+                            }
+                        </ul>
+                    </nav>
+                </div>
+
+            </div>
+        </div>
+        <!-- Shop Product End -->
+
+    </div>
+</div>
+
+<!-- Shop End -->

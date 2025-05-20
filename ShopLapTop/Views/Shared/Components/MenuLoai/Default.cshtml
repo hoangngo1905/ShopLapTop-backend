@@ -1,0 +1,16 @@
+﻿@model IEnumerable<ShopLapTop.Model.Entities.Category>
+
+<div class="mb-5">
+    <h5 class="font-weight-semi-bold mb-4">Lọc theo loại</h5>
+    <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
+        <a href="@Url.Action("Index", "Shop", new { category = "all" })">Tất cả</a>
+    </div>
+    @foreach (var category in Model)
+    {
+        <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
+            <a href="@Url.Action("Index", "Shop", new { category = category.Id })">@category.Name</a>
+            <span class="badge border font-weight-normal">@ViewBag.CategoryCounts[category.Id]</span>
+        </div>
+    }
+</div>
+

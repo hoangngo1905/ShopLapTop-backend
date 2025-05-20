@@ -1,0 +1,26 @@
+﻿@model ShopLapTop.Model.Entities.User
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<div class="container mt-4">
+    <h1>Tài Khoản</h1>
+    <div class="row">
+        <div class="col-md-4">
+            <img src="https://via.placeholder.com/150" class="img-thumbnail" alt="Profile Picture">
+        </div>
+        <div class="col-md-8">
+            <h2>Xin chào: @Model.Username</h2>
+            <h4 style="margin-top:24px">Thông tin của bạn</h4>
+            <p><strong>Họ và tên:</strong> @Model.Fullname</p>
+            <p><strong>Email:</strong> @Model.Email</p>
+            <p><strong>Số điện thoại:</strong> @Model.Phonenumber</p>
+            <p><strong>Địa chỉ:</strong> @Model.Address</p>
+@*             <p><strong>Trạng thái:</strong> @Model.Status</p>
+            <p><strong>Chức vụ :</strong> @Model.RoleId</p> *@
+            <!-- Add other properties as needed -->
+            <a class="btn btn-primary" asp-action="DangXuat">Đăng xuất</a>
+        </div>
+    </div>
+</div>
